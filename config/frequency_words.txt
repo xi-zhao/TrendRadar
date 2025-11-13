@@ -4,12 +4,6 @@ DeepSeek
 华为
 任正非
 
-比亚迪
-王传福
-
-大疆
-DJI
-
 宇树
 王兴兴
 
@@ -52,6 +46,16 @@ ios
 ai
 !gai
 人工智能
+AGI
+大模型
+机器学习
+强化学习
+openai
+gpt
+gemini
+deepreserch
+智能体
+gork
 
 自动驾驶
 
